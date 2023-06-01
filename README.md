@@ -1,66 +1,25 @@
-<!-- TITLE -->
-# Curso de Adonis.js
+<!-- Título -->
+# Exercício 2 — Operadores de Comparação
 
-<!-- * ***Conteúdo:*** -->
+***Conteúdo do Exercício:***
 
-<!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+Ler `dois` valores e escrever o `menor` deles ou se são `iguais`.
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+[Solução.](main.c)
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fadonis.js-fs&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-2-ope-com-exe-pra-est-dec-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-<!-- ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores") -->
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-<!-- ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores") -->
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-<!-- ![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas") -->
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-<!-- ![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações") -->
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-<!-- ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório") -->
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-<!-- ![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório") -->
+![License](https://img.shields.io/github/license/Devsgeeknerd/exe-2-ope-com-exe-pra-est-dec-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
